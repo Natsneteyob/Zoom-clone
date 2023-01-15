@@ -1,0 +1,9 @@
+first thing file create
+then we way say npm init
+then we say npm i express
+this project is done by express(that listens)
+
+then add npm i cors()
+
+
+universal uniform identifier===library automtical generates id
